@@ -1,0 +1,19 @@
+<svg width="59" height="63" viewBox="0 0 59 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1707487434">
+<g id="Group 1707486756">
+<g id="Group 1707486720">
+<circle id="Ellipse 2092" cx="29.5" cy="33.5" r="29.5" fill="#A08704"/>
+<circle id="Ellipse 2087" cx="29.5" cy="29.5" r="29.5" fill="url(#paint0_linear_776_3947)"/>
+</g>
+<g id="Group 1707486721">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M20.3207 17C17.7273 17 15.625 19.1023 15.625 21.6957V36.9565C15.625 39.5499 17.7273 41.6522 20.3207 41.6522H38.9293C41.5227 41.6522 43.625 39.5499 43.625 36.9565V21.6957C43.625 19.1023 41.5227 17 38.9293 17H20.3207ZM33.9784 30.3518C34.7822 29.9042 34.7822 28.7479 33.9784 28.3004L27.5221 24.706C26.7397 24.2704 25.7772 24.8362 25.7772 25.7317V32.9205C25.7772 33.816 26.7397 34.3818 27.5221 33.9461L33.9784 30.3518Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_776_3947" x1="-5" y1="-13.001" x2="46.5" y2="52" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE559"/>
+<stop offset="1" stop-color="#BC9E00"/>
+</linearGradient>
+</defs>
+</svg>

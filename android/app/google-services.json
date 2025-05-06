@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676767716729",
+    "project_id": "skillpe-be2cf",
+    "storage_bucket": "skillpe-be2cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676767716729:android:17ca454fdc37cac1dccba8",
+        "android_client_info": {
+          "package_name": "com.example.Skillpe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6iv6hm0G6npS0Y-vifZEowhiBP-ZBP3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
